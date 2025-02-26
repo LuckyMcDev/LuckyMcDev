@@ -1,9 +1,8 @@
-<h1 align="left">YOOOOO</h1>
+<h1 align="left">Heyo!</h1>
 
---- BEGIN RANDOM STATS NO ONE READS ---
+[![wakatime](https://wakatime.com/badge/user/6bb89598-6c48-48d7-bab8-a09bb77a9d90.svg)](https://wakatime.com/@6bb89598-6c48-48d7-bab8-a09bb77a9d90)
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=LuckyMcDev-hh&show_icons=true&theme=tokyonight&hide=["issues"])
+![luckymcdev](https://github-readme-stats.vercel.app/api?username=LuckyMcDev&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=LuckyMcDev-hh&show_icons=true&theme=tokyonight&layout=compact)
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=LuckyMcDev&show_icons=true&theme=tokyonight&layout=compact)
 
---- END RANDOM STATS NO ONE READS ---
