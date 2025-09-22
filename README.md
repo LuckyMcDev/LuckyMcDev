@@ -1,6 +1,6 @@
-<h1 align="left">Guten morgen</h1>
+## Lucky's Github Stats
+![Lucky Stats](https://raw.githubusercontent.com/perxenic-studios/.github/refs/heads/main/lucky-metrics.svg)
+![Lucky Isocalendar](https://raw.githubusercontent.com/perxenic-studios/.github/refs/heads/main/lucky-isocalendar.svg)
+![Lucky City](https://raw.githubusercontent.com/perxenic-studios/.github/refs/heads/main/lucky-city.svg)
 
-![luckymcdev](https://github-readme-stats.vercel.app/api?username=LuckyMcDev&show_icons=true&rank_icon=github&theme=tokyonight&hide=["issues"])
-
-![luckymcdev](https://github-readme-stats.vercel.app/api/top-langs?username=LuckyMcDev&show_icons=true&theme=tokyonight&layout=compact)
 
