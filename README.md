@@ -1,5 +1,5 @@
 # About Me:
-Im currently working on a Minecraft Mod, which turns the Game into a Game Engine.
+Im currently working on a Minecraft Mod, which turns Minecraft into a Game Engine.
 
 
 ## Things Im good at:
