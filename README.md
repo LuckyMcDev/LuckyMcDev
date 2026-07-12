@@ -12,7 +12,5 @@ Im currently working on a Minecraft Mod, which turns Minecraft into a Game Engin
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%2307405e.svg?style=for-the-badge&logo=godot-engine)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuckyMcDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuckyMcDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMcDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## My Modfolio Statistics
+[![LuckyMcDev](https://modfolio.creeperkatze.dev/modrinth/user/LuckyMcDev?showProjects=false&showSparklines=false&showDownloadBars=false&showBorder=false)](https://modrinth.com/user/LuckyMcDev)
